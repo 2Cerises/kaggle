@@ -5,6 +5,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the Repository
 
 git clone git@github.com:2Cerises/kaggle.git
+
 cd kaggle
 
 ### 2. Create a Virtual Environment (Python 3.12.9)
